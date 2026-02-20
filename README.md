@@ -12,7 +12,6 @@ We map AQP4 gene expression across the human brain and relate this spatial organ
 
 ### `code`
 This folder contains all the code used to run the analyses and generate the figures.
-...
 
 ### `data`
 This folder contains data files used for the analyses.
